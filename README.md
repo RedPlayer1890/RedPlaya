@@ -8,5 +8,5 @@
 - ¡Tengo un servidor de [discord](https://discord.gg/x7pP9YytDt)!
 
 <a href="https://github.com/RedPlayer1890">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RedPlayer1890&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="Estadísticas de RedPlayer1890" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RedPlayer1890&show_icons=true&include_all_commits=false&theme=radical&count_private=true" alt="Estadísticas de RedPlayer1890" />
 </a>

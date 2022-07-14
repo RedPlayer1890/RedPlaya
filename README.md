@@ -11,6 +11,6 @@
 
 ## 🏆 Estadísticas de GitHub.
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RedPlayer1890&show_icons=true&include_all_commits=false&theme=radical&count_private=true"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=brunkz&theme=dark" width="48%" >
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RedPlayer1890&show_icons=true&include_all_commits=false&theme=radical&count_private=true"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RedPlayer1890&theme=radical" width="48%" >
 <br>

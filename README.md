@@ -1,4 +1,4 @@
-<h1 align="center">Olah</h1>
+<h1 align="center">Olah, soy el red.</h1>
 
   # **Sobre mi**
 

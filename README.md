@@ -10,7 +10,7 @@
 - ¡Tengo un servidor de [discord](https://discord.gg/x7pP9YytDt)!
 
 ## 🏆 Estadísticas de GitHub.
-
-  ![Estadísticas de RedPlay1890](https://github-readme-stats.anuraghazra1.vercel.app/api?username=RedPlayer1890&show_icons=true&include_all_commits=false&theme=radical&count_private=true)
-  ![Estadísticas de RedPlay1890](https://github-readme-streak-stats.herokuapp.com/?user=RedPlayer1890&theme=radical)
-<br>
+<a href="https://gihub.com/RedPlayer1890">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RedPlayer1890&show_icons=true&include_all_commits=false&theme=radical&count_private=true">
+  <img src="4https://github-readme-streak-stats.herokuapp.com/?user=RedPlayer1890&theme=radical">
+</a>

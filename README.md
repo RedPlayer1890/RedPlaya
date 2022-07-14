@@ -12,5 +12,5 @@
 ## 🏆 Estadísticas de GitHub.
 <a href="https://gihub.com/RedPlayer1890">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RedPlayer1890&show_icons=true&include_all_commits=false&theme=radical&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedPlayer1890&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedPlayer1890&theme=radical" width="48%">
 </a>

@@ -14,5 +14,4 @@
 <a href="https://github.com/RedPlayer1890">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RedPlayer1890&show_icons=true&include_all_commits=false&theme=radical&count_private=true"/>
   <img  src="https://github-readme-stats.vercel.app/api?username=RedPlayer1890&show_icons=true&hide_border=true&theme=dark" width="48%" align="center" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RedPlay1890&theme=dark" width="48%" >
 </a>

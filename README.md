@@ -13,5 +13,5 @@
 <a href="https://gihub.com/RedPlayer1890">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RedPlayer1890&show_icons=true&include_all_commits=false&theme=vision-friendly-dark&count_private=true" width="48%" align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedPlayer1890&theme=vision-friendly-dark" width="48%">
-  <h2 align="center">https://github-readme-stats.vercel.app/api/top-langs/?username=RedPlayer1890&show_icons=true&theme=vision-friendly-dark&locale=es</h2>
+  <h2 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedPlayer1890&show_icons=true&theme=vision-friendly-dark&locale=es"></h2>
 </a>

@@ -2,9 +2,8 @@
 
   # **Sobre mi**
 
-- Mi nombre es Héctor Lozano, y me gustaría considerarme desarrollador en discord.
+- Mi nombre es Héctor Lozano, soy un loco aprendiendo poco a poco.
 - Me gusta [JavaScript](https://es.wikipedia.org/wiki/JavaScript), [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)), y [C#](https://es.wikipedia.org/wiki/C_Sharp).
-- Actualmente desarrollo para PardoCraft Network.
 - Tengo 17 años.
 - Me encantan los gatos.
 
